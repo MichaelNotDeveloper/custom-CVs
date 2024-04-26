@@ -119,9 +119,9 @@
   Навыки
   #line(length: 80%, stroke : rgb("#e4e4e4") + 2pt)  
   -- C++\
-  -- SQL\
-  -- Python + Libs\
-  -- git\
+  -- Eng B2, smooth speech \
+  -- Python + Libs + SQL\
+  -- Linux / Git\
   -- Swift\
   -- LaTex / Typst #text("(резюме сам техал)", size : 9pt)\
   -- Алгосы #text("(во внешней памяти тоже много знаю)", size : 9pt)\
@@ -129,9 +129,10 @@
 [
   Теория без Практики
   #line(length: 80%, stroke : rgb("#e4e4e4") + 2pt)
-  -- http протоколы\
-  -- многопоточка\
-  -- 100 анекдотов
+  -- Http Протоколы\
+  -- Докер\
+  -- Многопоточка\
+  -- 100 Анекдотов
 ]
 ,[
   Контакты 
