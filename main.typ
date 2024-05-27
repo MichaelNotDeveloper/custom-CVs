@@ -77,7 +77,7 @@
   #h(diff) #underline(text("2023", fill: rgb(142, 130, 255))) - #text("Призер открытой олимпиады", weight : "thin")\
   #h(diff) #text("школьников по программированию", weight : "thin")\
   #h(diff) #underline(text("2023", fill: rgb(142, 130, 255))) - #text("Победитель Технокубка", weight : "thin")\
-  #h(diff) #underline(text("2023", fill: rgb(142, 130, 255))) - #text("Участник Всероса по информатике", weight : "thin")\
+  #h(diff) #underline(text("2023", fill: rgb(142, 130, 255))) - #text("Всероссник по информатике", weight : "thin")\
   #h(diff) #underline(text("2021-2023", fill: rgb(142, 130, 255))) - #text("Абсолют региона по информатике", weight : "thin")\
   #h(diff) #underline(text("2021", fill: rgb(142, 130, 255))) - #text("Победитель всероссийского этапа Юниор", weight : "thin")\
   #h(diff) #text("профи Интернет Вещей", weight : "thin")\
@@ -101,7 +101,7 @@
   #let diff = 40pt
   #h(diff) #underline(text("2019", fill: rgb(142, 130, 255))) - #text("Симуляция жидкости на C++", weight : "thin")\
   #h(diff) #text("Узнал, что такое плюсы и командная разработка", weight : "thin", size : 10pt, fill: rgb(116, 116, 116))\
-  #h(diff) #underline(text("2019-2024", fill: rgb(142, 130, 255))) - #text("Библиотека с продвинутыми алгоритмами на c++", weight : "thin")\
+  #h(diff) #underline(text("2019-2024", fill: rgb(142, 130, 255))) - #text("Библиотека с продвинутыми алгоритмами на C++", weight : "thin")\
   #h(diff) #text("Храню энциклопедию, чтобы вставлять в олимпиады, применяю новые знания о плюсах", weight : "thin", size : 10pt, fill: rgb(116, 116, 116))\
   #h(diff) #underline(text("2024", fill: rgb(142, 130, 255))) - #text("Приложение с геолокацией в Сириусе на Swift", weight : "thin")\
   #h(diff) #text("Занимался бэком, получил опыт дейликов и работы с ребятами из яндекса. Познал git", weight : "thin", size : 10pt, fill: rgb(116, 116, 116))\
@@ -118,11 +118,10 @@
 [ 
   Навыки
   #line(length: 80%, stroke : rgb("#e4e4e4") + 2pt)  
-  -- C++\
+  -- C++ / Go / Swift\
   -- Eng B2, smooth speech \
-  -- Python + Libs + SQL\
+  -- Python + ML Libs + SQL\
   -- Linux / Git\
-  -- Swift\
   -- LaTex / Typst #text("(резюме сам техал)", size : 9pt)\
   -- Алгосы #text("(во внешней памяти тоже много знаю)", size : 9pt)\
 ],
@@ -137,11 +136,9 @@
 ,[
   Контакты 
   #line(length: 100%, stroke : rgb("#e4e4e4") + 2pt)
-  -- #link("mazameshaev\@hse.edu.ru")[mazameshaev\@hse.edu.ru]\
-  -- #link("https://codeforces.com/profile/Grandmaster_gang")[Codeforces]\
-  -- #link("https://github.com/MichaelNotDeveloper")[GitHub]\
-  -- #link("https://t.me/meshaza")[Telegram]\
+  -- #link("mazameshaev\@edu.hse.ru")[mazameshaev\@edu.hse.ru]\
+  -- #text(link("https://codeforces.com/profile/Grandmaster_gang")[Codeforces], fill: rgb(142, 130, 255))\
+  -- #text(link("https://github.com/MichaelNotDeveloper")[GitHub], fill: rgb(142, 130, 255))\
+  -- #text(link("https://t.me/meshaza")[\@meshaza], fill: rgb(142, 130, 255)) - tg\
 ]
 )
-
-
