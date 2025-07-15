@@ -116,7 +116,8 @@
   #text("Math", size : 15pt, fill : rgb("#ffffff")) \ 
   ]
   
-], [  
+], [ 
+  #set text(size: 17pt)
   #h(20pt) #text("Deep knowledge in Probability Theory and Stochastic analysis", weight : "thin")\
   #h(20pt) #text("Finished MSU course on Probability and Basics of SA, took advanced courses in HSE on SA, visiting Vega institute for science seminars, currently studying statistics, SA and preparing for olympiads", weight : "thin", size : 10pt, fill: rgb(116, 116, 116))\
   #text("Proficiency in Algorithms", weight : "thin")\
@@ -133,8 +134,11 @@
   ]
   
 ], [  
-  #h(20pt) #text("Decent knowledge in C++  Python and Python libs", weight : "thin")\
+  #set text(size: 17pt)
+  #h(20pt) #text("Decent knowledge of C++, Python and Python libs", weight : "thin")\
   #h(20pt) #text("Finished HSE, and online cources on advanced C++ and Python, has written bunch of projects", weight : "thin", size : 10pt, fill: rgb(116, 116, 116))\
+  #h(20pt) #text("Know how to apply ML and DL", weight : "thin")\
+  #h(20pt) #text("Made a lot of projects, using", weight : "thin", size : 10pt, fill: rgb(116, 116, 116))\
 ])
 
 *Projects*
